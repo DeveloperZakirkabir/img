@@ -1,0 +1,19 @@
+.header{
+    background-color:#e3f2fd;
+}
+a.navbar-brand img {
+    width: 33px;
+
+}
+
+.footerSection p{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 17px;
+}
+.footerSection{
+    background-color:#17a2b8;
+    color: #fff;
+    font-size: 20px;
+    
+}
